@@ -6,10 +6,10 @@ A aplicação deve ser feita utilizando VueJS na versão 2 ou 3 junto com algum 
 
 # O que foi utilizado?
 
-Vue 3
-Vue-router 4
-Axios 0.21.1
-Bootstrap 4
+Vue 3;
+Vue-router 4;
+Axios 0.21.1;
+Bootstrap 4.
 
 # Funções implementadas
 
